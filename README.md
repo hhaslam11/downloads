@@ -110,3 +110,5 @@ Please feel free to contribute.
 [Galbadia Hotel](http://gh.ffshrine.org/) -- Video game soundtracks
 
 [Myabandonware](www.myabandonware.com) -- Abandoned Games
+
+[the-eye](https://the-eye.eu) -- Archive project (old books, games, websites, music, etc)
