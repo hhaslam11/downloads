@@ -1,3 +1,6 @@
+This list is now a part of [my other list](https://github.com/hhaslam11/resources)
+
+
 # downloads
 A list of websites where you can download stuff for free. 
 Please feel free to contribute.
